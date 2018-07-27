@@ -4,6 +4,6 @@ class Dog
 end
 
 class Dog
-  attr_accessor :bark
+  def bark
   puts "Woof!"
 end
