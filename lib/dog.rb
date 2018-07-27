@@ -1,2 +1,4 @@
 class Dog
-  attr_accesor 
+  attr_accessor :bark
+  puts "Woof!"
+  
