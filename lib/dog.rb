@@ -1,1 +1,2 @@
-class 
+class Dog
+  attr_accesor 
